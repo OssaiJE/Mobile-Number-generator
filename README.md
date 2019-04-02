@@ -1,2 +1,2 @@
 # HNGInternship
-All my works during the HNG internship days
+Nigerian Mobile number generator written in python
